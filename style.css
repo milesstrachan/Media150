@@ -1,0 +1,26 @@
+ body {
+            background-color: rgb(28, 27, 27);
+            font-family: Arial, sans-serif;
+            color: #bbb6b6;
+            font-size: 12px;
+            line-height: 1.5;
+            margin: 150px;
+            max-width: 100%;
+        }
+        img {
+            margin: 10px auto;
+            max-width: 100%;
+            height: auto;
+            float: center;
+            border: 10px ridge rgb(228, 181, 124);
+        }
+        h1 {
+            color: rgb(105, 218, 95);
+            font-family: 'Times New Roman', sans-serif;
+            font-size: 24px;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+        a {
+            color: #699edf;
+        }
